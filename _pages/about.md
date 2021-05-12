@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Bio
+title: about
 permalink: /
 description: Phd student in <a href="https://dms.umontreal.ca/en/our-department/contact-us">Department of Mathematics and Statistics</a>, Université de Montréal. Research interest in finance and Natural Language Processing (NLP).
 
