@@ -12,9 +12,9 @@ profile:
     <p>Pavillon André-Aisenstadt</p>
     <p>Montréal (Québec) H3C 3J7</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 My research interests include **finance** and Natural Language Processing (**NLP**). *Predicting market impact of news* is my Phd study subject.
