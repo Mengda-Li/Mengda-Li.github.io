@@ -10,7 +10,6 @@ profile:
   address: >
     <p>Université de Montréal</p>
     <p>Pavillon André-Aisenstadt</p>
-    [//]: # ( <p>PO Box 6128, Centre-ville Station</p> )
     <p>Montréal (Québec) H3C 3J7</p>
 
 news: true  # includes a list of news items
