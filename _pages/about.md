@@ -1,16 +1,17 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Phd student in <a href="https://dms.umontreal.ca/en/our-department/contact-us">Department of Mathematics and Statistics</a>, Université de Montréal. Research interest in finance and Natural Language Processing (NLP).
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Université de Montréal</p>
+    <p>Pavillon André-Aisenstadt</p>
+    <p>PO Box 6128, Centre-ville Station</p>
+    <p>Montréal (Québec) H3C 3J7</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
