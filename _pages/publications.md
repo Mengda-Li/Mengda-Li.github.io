@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Papers
-description: <i> «<b>P</b>ublish <b>T</b>o <b>P</b>erish.» </i>
+description: <i> <b>P</b>ublish <b>T</b>o <b>P</b>erish. </i>
 years: [2021]
 nav: true
 ---
